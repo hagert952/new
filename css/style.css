@@ -1,0 +1,7 @@
+.text{font-weight:  bolder;font-size: 80px;font-family: Impact;}
+.texts{font-size: 35px;}
+.width{padding-left: 90px;padding-right: 90px;
+padding-top: 30px;padding-bottom:30px;background-color: blue;
+}
+.width:hover{background-color: green;
+}
